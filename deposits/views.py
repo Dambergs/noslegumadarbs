@@ -17,7 +17,6 @@ def index(request):
         context=context,
     )
 
-
 #def interest(k, i, n):
     #return k(1+float(i))**n
 
